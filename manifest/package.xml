@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
 	<types>
+		<members>fflib_IDomain</members>
+		<members>fflib_IObjects</members>
+		<members>fflib_ISObjectDomain</members>
+		<members>fflib_ISObjects</members>
+		<members>fflib_Objects</members>
+		<members>fflib_SObjectDomain</members>
+		<members>fflib_SObjectDomainTest</members>
+		<members>fflib_SObjects</members>
 		<members>ContactTriggerHandler</members>
 		<members>ContactTriggerHandler_Test</members>
+		<members>OpportunitiesTriggerHandler</members>
 		<members>TriggerX</members>
 		<members>TriggerXTest</members>
 		<name>ApexClass</name>
 	</types>
 	<types>
 		<members>ContactTrigger</members>
+		<members>OpportunitiesTrigger</members>
 		<name>ApexTrigger</name>
 	</types>
 	<types>
