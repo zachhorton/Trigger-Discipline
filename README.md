@@ -1,6 +1,6 @@
 # 2023 Training Sessions - Trigger Discipline
 
-This training will cover a trigger handlers (TriggerX and fflib)
+This training will cover trigger handlers (TriggerX and fflib)
 
 ## Training Session Recording
 
